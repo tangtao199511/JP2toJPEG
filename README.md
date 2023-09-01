@@ -2,7 +2,7 @@
 A little tool to convert all the JP2(JPEG2000) to JPEG.
 
 # Usage
-You can download the source code directly and run the .py file to convert the JP2 file to JPEG file.
+You can download the source code `JP2toJPEG.py` directly and run the .py file to convert the JP2 file to JPEG file.
 
 # Requirement
 This tool is based on `imageio`  package. You need to install imageio first:
